@@ -1,6 +1,6 @@
-# my_app_01
+# Flutter Buttom tab bar Navigation
 
-A new Flutter project.
+ເປັນໂປຼເຈັກ ທີ່ສ້າງຂື້ນເພື່ອການຮຽນຮູ້ ພັດທະນາໂມບາຍແອ໊ບ Flutter
 
 ## Getting Started
 
